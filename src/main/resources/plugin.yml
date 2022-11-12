@@ -1,0 +1,7 @@
+name: Inactivity
+version: '${project.version}'
+main: io.frankmayer.inactivity.Main
+api-version: 1.15
+authors: [ 'Frank-Mayer' ]
+description: Stops the server on inactivity
+website: https://www.frank-mayer.io
